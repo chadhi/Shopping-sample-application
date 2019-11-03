@@ -1,0 +1,47 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "Shopping",
+    "packageName": "com.mycompany.shopping",
+    "packageFolder": "com/mycompany/shopping",
+    "serverPort": 8040,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "fr",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.4.1",
+    "jwtSecretKey": "OGZkMGQyNTA4ZWIzNDA1OGVmZDY2YzM3YWM1NzU5NWZhMjNiM2RiNWZiMWM1MjQ5NWU1YmU3YTI4MTkwYTcyMGI5MmYzNzFmYzMwODNhZjZmOTdmZGRjZWYxNjNkMTIyMTk1Njg3ZWU5ODZmYTU5YTIyODhhNGJmNzc1Njk0OWM=",
+    "embeddableLaunchScript": false,
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "chadhi",
+  "repository-name": "Shopping-sample-application"
+}
